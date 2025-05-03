@@ -50,8 +50,8 @@ python iss_notifier.py
 
 ## 🛰️ APIs Used
 
-- [Open Notify - ISS Location](https://chatgpt.com/c/6815adea-88d0-800b-be61-8556e4efeb89#:~:text=%F0%9F%8C%90%20APIs%20Used-,Open%20Notify%20%2D%20ISS%20Location,-Sunrise%2DSunset%20API)
-- [Sunrise-Sunset API](https://chatgpt.com/c/6815adea-88d0-800b-be61-8556e4efeb89#:~:text=Notify%20%2D%20ISS%20Location-,Sunrise%2DSunset%20API,-%F0%9F%93%A7%20Example%20Notification)
+- [Open Notify - ISS Location](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
+- [Sunrise-Sunset API](https://sunrise-sunset.org/api)
 
 
 ### 📧 Example Notification
